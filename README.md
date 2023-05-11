@@ -1,3 +1,8 @@
+
+<img width="1040" alt="image" src="https://github.com/quantaosun/intro_pharma_ai/assets/75652473/5024bac2-bd6a-4de9-8e4f-4622531fda4c">
+
+
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
